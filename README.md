@@ -1,2 +1,2 @@
-# App Name Here
-Experimenting with...
+# CoreAnimation
+Experimenting with CoreAnimation led by Andres Arciniegas
